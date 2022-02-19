@@ -25,5 +25,7 @@ let brennan = "hogue"
 
 var percentage: Double = 99
 
+var int = 24
+
 
 
