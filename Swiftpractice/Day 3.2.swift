@@ -7,7 +7,7 @@
 
 import Foundation
 
-let age1 = 12
+let age1 = 14
 let age2 = 21
 
 if age1 > 10 && age2 > 10 {
