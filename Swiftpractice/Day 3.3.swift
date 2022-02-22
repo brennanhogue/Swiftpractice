@@ -7,7 +7,7 @@
 
 import Foundation
 
-let thescore = 85
+let thescore = 86
 switch score {
 case 0..<50:
 print("You failed badly")
