@@ -31,6 +31,7 @@
 		82A05DF827C36F2F004AF750 /* Day 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A05DF727C36F2F004AF750 /* Day 2.swift */; };
 		82E5028E27D07F2D00DE5F16 /* Variables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E5028D27D07F2D00DE5F16 /* Variables.swift */; };
 		82E5029027D0881D00DE5F16 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E5028F27D0881D00DE5F16 /* Arrays.swift */; };
+		82F863C027D168B30055B464 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F863BF27D168B30055B464 /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		82A05DF727C36F2F004AF750 /* Day 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 2.swift"; sourceTree = "<group>"; };
 		82E5028D27D07F2D00DE5F16 /* Variables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variables.swift; sourceTree = "<group>"; };
 		82E5028F27D0881D00DE5F16 /* Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
+		82F863BF27D168B30055B464 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 				82E5028F27D0881D00DE5F16 /* Arrays.swift */,
 				826718C127D11774009168B3 /* Sets.swift */,
 				826718C327D117ED009168B3 /* Dictionaries.swift */,
+				82F863BF27D168B30055B464 /* Functions.swift */,
 			);
 			path = "Sean Allen";
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				828A192327C15F1400AE753B /* Day 1.swift in Sources */,
 				826718C227D11774009168B3 /* Sets.swift in Sources */,
 				828CD37F27C6060400596080 /* Day 4.1.swift in Sources */,
+				82F863C027D168B30055B464 /* Functions.swift in Sources */,
 				828A190F27C15ED200AE753B /* AppDelegate.swift in Sources */,
 				825C8D1727C7546800BD7D10 /* Day 4.3.swift in Sources */,
 				8224CF5227CDED6600D89F58 /* Day 7.1.swift in Sources */,
