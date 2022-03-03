@@ -13,6 +13,7 @@
 		8231537127C4BD3300C68D77 /* Day 3.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231537027C4BD3300C68D77 /* Day 3.3.swift */; };
 		825C8D1727C7546800BD7D10 /* Day 4.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825C8D1627C7546800BD7D10 /* Day 4.3.swift */; };
 		826718C227D11774009168B3 /* Sets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826718C127D11774009168B3 /* Sets.swift */; };
+		826718C427D117ED009168B3 /* Dictionaries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826718C327D117ED009168B3 /* Dictionaries.swift */; };
 		8280355F27C8A0C700D48F9F /* Day 5.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280355E27C8A0C700D48F9F /* Day 5.1.swift */; };
 		8280356727C8B30400D48F9F /* Day 5.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356627C8B30400D48F9F /* Day 5.2.swift */; };
 		8280356927C8B51C00D48F9F /* Day 5.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356827C8B51C00D48F9F /* Day 5.3.swift */; };
@@ -39,6 +40,7 @@
 		8231537027C4BD3300C68D77 /* Day 3.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 3.3.swift"; sourceTree = "<group>"; };
 		825C8D1627C7546800BD7D10 /* Day 4.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 4.3.swift"; sourceTree = "<group>"; };
 		826718C127D11774009168B3 /* Sets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sets.swift; sourceTree = "<group>"; };
+		826718C327D117ED009168B3 /* Dictionaries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dictionaries.swift; sourceTree = "<group>"; };
 		8280355E27C8A0C700D48F9F /* Day 5.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.1.swift"; sourceTree = "<group>"; };
 		8280356627C8B30400D48F9F /* Day 5.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.2.swift"; sourceTree = SOURCE_ROOT; };
 		8280356827C8B51C00D48F9F /* Day 5.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.3.swift"; sourceTree = SOURCE_ROOT; };
@@ -178,6 +180,7 @@
 				82E5028D27D07F2D00DE5F16 /* Variables.swift */,
 				82E5028F27D0881D00DE5F16 /* Arrays.swift */,
 				826718C127D11774009168B3 /* Sets.swift */,
+				826718C327D117ED009168B3 /* Dictionaries.swift */,
 			);
 			path = "Sean Allen";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				82E5028E27D07F2D00DE5F16 /* Variables.swift in Sources */,
 				8231536B27C4BCBD00C68D77 /* Day 3.1.swift in Sources */,
 				828A191327C15ED200AE753B /* ViewController.swift in Sources */,
+				826718C427D117ED009168B3 /* Dictionaries.swift in Sources */,
 				82E5029027D0881D00DE5F16 /* Arrays.swift in Sources */,
 				8280355F27C8A0C700D48F9F /* Day 5.1.swift in Sources */,
 				828CD38127C6081B00596080 /* Day 4.2.swift in Sources */,
