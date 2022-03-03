@@ -9,8 +9,10 @@ import Foundation
 
 let count = 1...10
 
+func numInCount(count:[Int]) {
 for number in count {
     print("Number is \(number).")
+}
 }
 
 let teams = ["Jazz", "Warriors", "Wizards"]
