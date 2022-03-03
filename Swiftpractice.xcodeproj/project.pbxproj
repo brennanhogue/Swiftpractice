@@ -12,6 +12,7 @@
 		8231536D27C4BCED00C68D77 /* Day 3.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231536C27C4BCED00C68D77 /* Day 3.2.swift */; };
 		8231537127C4BD3300C68D77 /* Day 3.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231537027C4BD3300C68D77 /* Day 3.3.swift */; };
 		825C8D1727C7546800BD7D10 /* Day 4.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825C8D1627C7546800BD7D10 /* Day 4.3.swift */; };
+		826718C227D11774009168B3 /* Sets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826718C127D11774009168B3 /* Sets.swift */; };
 		8280355F27C8A0C700D48F9F /* Day 5.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280355E27C8A0C700D48F9F /* Day 5.1.swift */; };
 		8280356727C8B30400D48F9F /* Day 5.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356627C8B30400D48F9F /* Day 5.2.swift */; };
 		8280356927C8B51C00D48F9F /* Day 5.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356827C8B51C00D48F9F /* Day 5.3.swift */; };
@@ -37,6 +38,7 @@
 		8231536C27C4BCED00C68D77 /* Day 3.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 3.2.swift"; sourceTree = "<group>"; };
 		8231537027C4BD3300C68D77 /* Day 3.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 3.3.swift"; sourceTree = "<group>"; };
 		825C8D1627C7546800BD7D10 /* Day 4.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 4.3.swift"; sourceTree = "<group>"; };
+		826718C127D11774009168B3 /* Sets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sets.swift; sourceTree = "<group>"; };
 		8280355E27C8A0C700D48F9F /* Day 5.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.1.swift"; sourceTree = "<group>"; };
 		8280356627C8B30400D48F9F /* Day 5.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.2.swift"; sourceTree = SOURCE_ROOT; };
 		8280356827C8B51C00D48F9F /* Day 5.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.3.swift"; sourceTree = SOURCE_ROOT; };
@@ -175,6 +177,7 @@
 				829542B027CF463D0022B19A /* ifStatements.swift */,
 				82E5028D27D07F2D00DE5F16 /* Variables.swift */,
 				82E5028F27D0881D00DE5F16 /* Arrays.swift */,
+				826718C127D11774009168B3 /* Sets.swift */,
 			);
 			path = "Sean Allen";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				8231537127C4BD3300C68D77 /* Day 3.3.swift in Sources */,
 				829542B127CF463D0022B19A /* ifStatements.swift in Sources */,
 				828A192327C15F1400AE753B /* Day 1.swift in Sources */,
+				826718C227D11774009168B3 /* Sets.swift in Sources */,
 				828CD37F27C6060400596080 /* Day 4.1.swift in Sources */,
 				828A190F27C15ED200AE753B /* AppDelegate.swift in Sources */,
 				825C8D1727C7546800BD7D10 /* Day 4.3.swift in Sources */,
