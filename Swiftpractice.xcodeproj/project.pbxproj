@@ -30,6 +30,7 @@
 		829542B127CF463D0022B19A /* ifStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829542B027CF463D0022B19A /* ifStatements.swift */; };
 		82A05DF827C36F2F004AF750 /* Day 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A05DF727C36F2F004AF750 /* Day 2.swift */; };
 		82BA8E3227D1F16E00EA979A /* Loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BA8E3127D1F16E00EA979A /* Loops.swift */; };
+		82BA8E3427D1F6BA00EA979A /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BA8E3327D1F6BA00EA979A /* Enums.swift */; };
 		82E5028E27D07F2D00DE5F16 /* Variables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E5028D27D07F2D00DE5F16 /* Variables.swift */; };
 		82E5029027D0881D00DE5F16 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E5028F27D0881D00DE5F16 /* Arrays.swift */; };
 		82F863C027D168B30055B464 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F863BF27D168B30055B464 /* Functions.swift */; };
@@ -61,6 +62,7 @@
 		829542B027CF463D0022B19A /* ifStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ifStatements.swift; sourceTree = SOURCE_ROOT; };
 		82A05DF727C36F2F004AF750 /* Day 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 2.swift"; sourceTree = "<group>"; };
 		82BA8E3127D1F16E00EA979A /* Loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loops.swift; sourceTree = "<group>"; };
+		82BA8E3327D1F6BA00EA979A /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		82E5028D27D07F2D00DE5F16 /* Variables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variables.swift; sourceTree = "<group>"; };
 		82E5028F27D0881D00DE5F16 /* Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
 		82F863BF27D168B30055B464 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
@@ -187,6 +189,7 @@
 				826718C327D117ED009168B3 /* Dictionaries.swift */,
 				82F863BF27D168B30055B464 /* Functions.swift */,
 				82BA8E3127D1F16E00EA979A /* Loops.swift */,
+				82BA8E3327D1F6BA00EA979A /* Enums.swift */,
 			);
 			path = "Sean Allen";
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				8224CF5227CDED6600D89F58 /* Day 7.1.swift in Sources */,
 				828A191127C15ED200AE753B /* SceneDelegate.swift in Sources */,
 				8231536D27C4BCED00C68D77 /* Day 3.2.swift in Sources */,
+				82BA8E3427D1F6BA00EA979A /* Enums.swift in Sources */,
 				82A05DF827C36F2F004AF750 /* Day 2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
