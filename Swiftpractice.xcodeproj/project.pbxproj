@@ -17,6 +17,7 @@
 		8280355F27C8A0C700D48F9F /* Day 5.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280355E27C8A0C700D48F9F /* Day 5.1.swift */; };
 		8280356727C8B30400D48F9F /* Day 5.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356627C8B30400D48F9F /* Day 5.2.swift */; };
 		8280356927C8B51C00D48F9F /* Day 5.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8280356827C8B51C00D48F9F /* Day 5.3.swift */; };
+		8289DAA027D5E3C100991497 /* Switch Statements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8289DA9F27D5E3C100991497 /* Switch Statements.swift */; };
 		828A190F27C15ED200AE753B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828A190E27C15ED200AE753B /* AppDelegate.swift */; };
 		828A191127C15ED200AE753B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828A191027C15ED200AE753B /* SceneDelegate.swift */; };
 		828A191327C15ED200AE753B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828A191227C15ED200AE753B /* ViewController.swift */; };
@@ -47,6 +48,7 @@
 		8280355E27C8A0C700D48F9F /* Day 5.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.1.swift"; sourceTree = "<group>"; };
 		8280356627C8B30400D48F9F /* Day 5.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.2.swift"; sourceTree = SOURCE_ROOT; };
 		8280356827C8B51C00D48F9F /* Day 5.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 5.3.swift"; sourceTree = SOURCE_ROOT; };
+		8289DA9F27D5E3C100991497 /* Switch Statements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Switch Statements.swift"; sourceTree = "<group>"; };
 		828A190B27C15ED200AE753B /* Swiftpractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftpractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		828A190E27C15ED200AE753B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		828A191027C15ED200AE753B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				82F863BF27D168B30055B464 /* Functions.swift */,
 				82BA8E3127D1F16E00EA979A /* Loops.swift */,
 				82BA8E3327D1F6BA00EA979A /* Enums.swift */,
+				8289DA9F27D5E3C100991497 /* Switch Statements.swift */,
 			);
 			path = "Sean Allen";
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				8231537127C4BD3300C68D77 /* Day 3.3.swift in Sources */,
 				829542B127CF463D0022B19A /* ifStatements.swift in Sources */,
 				828A192327C15F1400AE753B /* Day 1.swift in Sources */,
+				8289DAA027D5E3C100991497 /* Switch Statements.swift in Sources */,
 				826718C227D11774009168B3 /* Sets.swift in Sources */,
 				82BA8E3227D1F16E00EA979A /* Loops.swift in Sources */,
 				828CD37F27C6060400596080 /* Day 4.1.swift in Sources */,
